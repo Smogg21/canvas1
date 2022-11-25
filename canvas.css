@@ -1,0 +1,6 @@
+.canvas{
+    background-color: gray;
+    width: 100vw;
+    height: 100vh;
+    cursor: pointer;
+}
